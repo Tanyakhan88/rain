@@ -1,1 +1,1 @@
-# rain this file is about poetry
+this file is about poetry
